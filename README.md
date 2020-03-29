@@ -7,4 +7,6 @@ Official Website for the Codechef Local Chapter in IIITDM Kancheepuram
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![Only 8.2 Mb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://iiitdm-codechef-local-chapter.github.io/Website/)
+[![Only 8.2 Mb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://iiitdm-codechef-local-chapter.github.io/Website/)  
+
+[![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
