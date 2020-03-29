@@ -10,3 +10,5 @@ Official Website for the Codechef Local Chapter in IIITDM Kancheepuram
 [![Only 8.2 Mb](https://badge-size.herokuapp.com/Naereen/StrapDown.js/master/strapdown.min.js)](https://iiitdm-codechef-local-chapter.github.io/Website/)  
 
 [![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
