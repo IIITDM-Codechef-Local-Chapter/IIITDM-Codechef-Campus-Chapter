@@ -5,6 +5,11 @@
   background-image: linear-gradient(to left, #00b4ff 0%, #57ddff 51%, #00b4ff 100%);
 }
 
+.img-abt {
+  height: 100px;
+  border-radius: 50%;
+}
+
 /* line 5, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_extends.scss */
 .banner_part .banner_text .banner_btn_1:hover, .banner_part .banner_text .banner_btn_2:hover, .cta_part .banner_btn_1:hover, .cta_part .banner_btn_2:hover {
   background-image: linear-gradient(to left, #57ddff 0%, #57ddff 51%, #57ddff 100%);
