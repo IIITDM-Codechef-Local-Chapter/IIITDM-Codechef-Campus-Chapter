@@ -5,6 +5,12 @@
   background-image: linear-gradient(to left, #00b4ff 0%, #57ddff 51%, #00b4ff 100%);
 }
 
+
+html {
+  scroll-behavior: smooth;
+}
+
+
 .img-abt {
   height: 100px;
   padding-top: 1%;
