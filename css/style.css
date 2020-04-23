@@ -9,7 +9,13 @@
 html {
   scroll-behavior: smooth;
 }
-
+/* 
+.snippets {
+  background-color: #1D1F21;
+}
+.codeinsnippet {
+  padding: 2% 2% 2% 2%;
+} */
 
 .img-abt {
   height: 100px;
