@@ -326,33 +326,6 @@ margin: auto;">
       </code>
     </div>
   </div>
-
-  <div class="mySlides1">
-    <div style="padding-left: 30%;">
-        <code>
-          ll Pow(ll a, ll b, ll m = mod)<br>
-          {<br>
-              if (b == 0)<br>
-                  return 1ll;<br>
-              else if (b == 1)<br>
-                  return a;<br>
-              else<br>
-              {<br>
-                  ll x = pow1(a, b/2, m);<br>
-                  x *= x;<br>
-                  x %= m;<br>
-                  if (b%2)<br>
-                  {<br>
-                      x *= a;<br>
-                      x %= m;<br>
-                  }<br>
-                  return x;<br>
-              }<br>
-          }<br>
-      </code>
-    </div>
-  </div>
-
   <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
   <a style="right: 0;
   border-radius: 3px 0 0 3px;" onclick="plusSlides(1, 0)">&#10095;</a>
@@ -440,13 +413,20 @@ margin: auto;">
 </div>
 <!--CP map end-->
 
+<!--Contact-->
+<div class="container box_1170" id="contact">
+
+</div>
+<!--Contact end-->
+
 <!--::footer_part start::-->
 <footer class="footer_part">
     <div class="container">
+        <a href="#home" > <img src="img/footer_img.png" alt="footer_logo" style="height: 60px;"> </a>
         <div class="row">
             <div class="col-sm-6 col-lg-3">
+                
                 <div class="single_footer_part">
-                    <a href="#home" > <img src="img/footer_img.png" alt="footer_logo" style="height: 60px;"> </a>
                     <h4>About Us</h4>
                     <p> We organise contests on a monthly basis to encourage the coding culture on campus.
                     </p>
@@ -456,8 +436,10 @@ margin: auto;">
                 <div class="single_footer_part">
                     <h4>Contact Info</h4>
                     <p>Address : IIITDM Kancheepuram, Chennai - 600127.</p>
-                    <p>Phone : +91-9381545322 </p>
-                    <p>Email : csclub@iiitdm.ac.in</p>
+                    <ul class="list-unstyled">
+                        <li>Phone : <a href="tel-+91-9381545322" target="blank">+91-9381545322</a></li>
+                        <li>Email : <a href="mailto:csclub@iiitdm.com" target="blank">csclub@iiitdm.ac.in</a></li>
+                    </ul>
                 </div>
             </div>
             <div class="col-sm-6 col-lg-3">
